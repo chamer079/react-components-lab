@@ -39,7 +39,12 @@ const App = () => {
   
 
   return (
-    <h1>Sanity Check</h1>
+    <>
+      <h1>Local Weather</h1>
+      <section>
+        {/* Weather data here */}
+      </section>
+    </>
   )
 }
 
