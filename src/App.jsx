@@ -1,6 +1,5 @@
 import WeatherForecast from "./components/WeatherForcast"
-import WeatherIcon from "./components/WeatherIcon"
-import WeatherData from "./components/WeatherData"
+
 
 const App = () => {
   const weatherForecasts = [

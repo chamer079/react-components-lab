@@ -1,3 +1,5 @@
+import WeatherIcon from "./components/WeatherIcon"
+import WeatherData from "./components/WeatherData"
 import "./WeatherForecast.css"
 
 const WeatherForecast = () => {
