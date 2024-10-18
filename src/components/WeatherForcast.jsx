@@ -1,4 +1,6 @@
-const WeatherForecasts = () => {
+import "./WeatherForecast.css"
+
+const WeatherForecast = () => {
   return (
     <div className="weather">
       <h2>Day of the Week</h2>
@@ -9,4 +11,4 @@ const WeatherForecasts = () => {
   );
 };
 
-export default WeatherForecasts
+export default WeatherForecast
